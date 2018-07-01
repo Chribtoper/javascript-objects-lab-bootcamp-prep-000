@@ -1,4 +1,5 @@
 var recipes = {};
+<<<<<<< HEAD
 var safeObj = {};
 
 function updateObjectWithKeyAndValue(object, key, value){
@@ -19,3 +20,6 @@ function destructivelyDeleteFromObjectByKey(object, key){
   delete object[key];
   return object;
 }
+=======
+
+>>>>>>> 4c78e8ebacc9cc42d88dcd25961434121d7e415e
